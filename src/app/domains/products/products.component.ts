@@ -9,10 +9,5 @@ import { CommonModule } from '@angular/common';
   styleUrl: './products.component.css'
 })
 export class ProductsComponent {
-  showMyContainer: boolean = false;
-
-
-  open(){
-    console.log('test');
-  }
+  
 }
