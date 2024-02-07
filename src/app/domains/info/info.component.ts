@@ -8,7 +8,6 @@ import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
     <div class="card tab-page">
       <div class="card-body">
         <h1>{{page}}</h1>
-        <app-child-one></app-child-one>
        
       </div>
     </div>
